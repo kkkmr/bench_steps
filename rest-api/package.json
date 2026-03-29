@@ -1,0 +1,16 @@
+{
+  "name": "rest-api-hands-on",
+  "version": "1.0.0",
+  "description": "Hands on for REST APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "type":"module",
+  "author": "Karthik Kumar Marapaka",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^5.2.1"
+  }
+}
