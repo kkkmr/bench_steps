@@ -1,3 +1,7 @@
-rest-api/node_modules
-rest-api/dist
-rest-api/.env
+Networking/rest-api/node_modules
+Networking/rest-api/dist
+Networking/rest-api/.env
+
+Networking/GraphQl/node_modules
+Networking/GraphQl/dist
+Networking/GraphQl/.env
