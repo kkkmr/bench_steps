@@ -5,3 +5,7 @@ Networking/RestAPI/.env
 Networking/GraphQl/node_modules
 Networking/GraphQl/dist
 Networking/GraphQl/.env
+
+Networking/gRPC/node_modules
+Networking/gRPC/dist
+Networking/gRPC/.env
