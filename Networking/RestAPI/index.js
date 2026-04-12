@@ -5,7 +5,7 @@ import bodyParser from 'body-parser';
 const app = express(); 
 app.use(bodyParser.json());
 
-const PORT = 2527;
+const PORT = 1001;
 
 app.all('/', (req, res)=>{
     res.send('Hello World!');
